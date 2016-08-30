@@ -1,0 +1,25 @@
+/*Edited and revised by Hieu Nguyen*/
+
+.character_image {
+  width: 100%;
+}
+
+header {
+  background-color: #eaaa15;
+  margin-bottom:40px;
+}
+
+h4 {
+	margin bottom: 0;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.card_pic {
+  border:1px solid grey;
+  margin-bottom:20px;
+}
+
+.info {
+  padding:10px 20px;
+}
